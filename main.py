@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 #import wolframalpha
-#client = wolframalpha.Client('pypi-AgEIcHlwA1YmZkNjIyNwACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgG0k2KSN-ho-EeQJ-NtnKIkaXWpkkn5Kh1BilogvZtdQ')
+#client = wolframalpha.Client('')
 #res = client.query(query)
 #print(next(res.results).text)
 
