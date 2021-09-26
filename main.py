@@ -2,11 +2,11 @@ import telebot
 from telebot import types
 
 #import wolframalpha
-#client = wolframalpha.Client('pypi-AgEIcHlwaS5vcmcCJGI4ZTQ0ZTJlLTI4MDgtNGRjMi1iZWVkLWU4ZDA1YmZkNjIyNwACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgG0k2KSN-ho-EeQJ-NtnKIkaXWpkkn5Kh1BilogvZtdQ')
+#client = wolframalpha.Client('pypi-AgEIcHlwA1YmZkNjIyNwACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgG0k2KSN-ho-EeQJ-NtnKIkaXWpkkn5Kh1BilogvZtdQ')
 #res = client.query(query)
 #print(next(res.results).text)
 
-bot = telebot.TeleBot('2016351506:AAGV9AKm7i6d39ggcPsnDTEGQPYcaQiKFcs')
+bot = telebot.TeleBot('2016')
 name = ''
 surname = ''
 age = 0
